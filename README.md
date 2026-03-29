@@ -59,8 +59,7 @@ Many government and job portals require strict image size limits (20KB–100KB).
 
 ## Demo
 
-[Live Demo](#)  
-()
+[Live Demo](https://targetsize.onrender.com)
 
 ## How It Works
 
