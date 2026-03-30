@@ -234,7 +234,7 @@ const ImageCompressor = () => {
                       <img
                         src={previewUrls.original}
                         alt="Original"
-                        className="max-h-75 object-contain rounded shadow-sm bg-white"
+                        className="max-h-75 object-contain rounded shadow-sm bg-[#161819]"
                       />
                     </div>
                   </div>
