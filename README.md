@@ -1,6 +1,6 @@
 # TargetSize Image Compressor
 
-A frontend-only React app to compress images to a target size (KB) with real-time preview for compressing images to a specific target size (KB) using client-side processing. This tool allows users to interactively adjust image quality with real-time feedback, ensuring the desired file size is met without ever uploading data to a server.
+A frontend-only React web app to compress images to a specific target size (KB) with real-time preview — fully in the browser, no uploads. Built for strict upload limits on government and job portals.
 
 ## Features
 
